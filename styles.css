@@ -49,7 +49,7 @@ h1 {
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 16px;
   margin-bottom: 16px;
-  height: 18em;
+  height: auto;
   flex-direction: row;
   align-items: center;
   justify-content: center;
